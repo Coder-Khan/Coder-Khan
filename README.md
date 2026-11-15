@@ -132,8 +132,8 @@
 
 <div align="center">
 
-👁️ *I build the eyes machines didn't have before.*
+🤖 *I build the eyes machines didn't have before.* 🤖
 
-⭐ *From [Coder-Khan](https://github.com/Coder-Khan)*
+⭐ *From [Coder-Khan](https://github.com/Coder-Khan)* ⭐
 
 </div>
