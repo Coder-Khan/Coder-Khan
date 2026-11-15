@@ -46,16 +46,6 @@
 
 ---
 
-## 🛠 Skills
-
-**Languages:** Python, SQL, C, C++, JavaScript, TypeScript, HTML, CSS
-**Machine Learning & AI:** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, Transformers, Deep Learning, LSTM, OpenCV, YOLOv8, Whisper, Anomaly Detection, Time-Series Forecasting
-**GenAI & Agentic AI:** LLMs, RAG, LangChain, LangGraph, Pinecone, n8n, Anthropic SDK, OpenAI SDK, ElevenLabs, DeepGram
-**Data & BI:** Pandas, NumPy, NetworkX, PostgreSQL, Firestore, Power BI, Plotly, Streamlit, Excel
-**Backend & Tools:** FastAPI, REST APIs, Node.js, Next.js, React.js, Docker, Git, WebRTC
-
----
-
 ## 💻 Languages and Tools
 
 ### 🧠 AI / ML
