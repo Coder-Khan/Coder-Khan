@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e5e,50:0f766e,100:71b280&height=200&section=header&text=%F0%9F%94%B0%20Abdullah%20Yar%20Khan%20%F0%9F%94%B0&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Agentic%20AI&descAlignY=60&descSize=18" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=I+build+the+eyes+machines+didn't+have+before.;AI%2FML+Engineer+%7C+Data+Engineer+%7C+Data+Scientist;Anomaly+detection+%C2%B7+Forecasting+%C2%B7+Agentic+AI;Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%C2%B7+Open+to+relocation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=720&lines=I+build+the+eyes+machines+didn't+have+before.;AI%2FML+Engineer+%7C+Data+Engineer+%7C+Data+Scientist;Anomaly+detection+%C2%B7+Forecasting+%C2%B7+Agentic+AI;Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%C2%B7+Open+to+relocation" alt="Typing SVG" />
 
 <br/>
 
@@ -10,24 +10,12 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Coder-Khan/Coder-Khan/raw/main/Abdullah_Yar_Khan_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD-0f766e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/></a>
-    </td>
-    <td align="center">
-      <a href="mailto:abdullahyarkhan3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ME-2e9c7f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/abdullah-yar-khan/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-134e5e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Coder-Khan"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-1f2d33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Coder-Khan/Coder-Khan/raw/main/Abdullah_Yar_Khan_Resume.pdf"><img height="26" src="https://img.shields.io/badge/-RESUME-0f766e?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/></a>&nbsp;
+  <a href="mailto:abdullahyarkhan3@gmail.com"><img height="26" src="https://img.shields.io/badge/-EMAIL-2e9c7f?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abdullah-yar-khan/"><img height="26" src="https://img.shields.io/badge/-LINKEDIN-134e5e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/Coder-Khan"><img height="26" src="https://img.shields.io/badge/-GITHUB-1f2d33?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 </div>
 
