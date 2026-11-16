@@ -1,5 +1,16 @@
 <div align="center">
+<!-- =================== NAME / HEADER (kept as-is) =================== -->
+<a name="top"></a>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=🔰Abdullah%20Yar%20Khan🔰&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20Engineer&descAlignY=60&descSize=18" width="100%" alt="banner"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9FE0&center=true&vCenter=true&width=560&lines=Native+Android+Developer+%F0%9F%93%B1;Backend+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+LLM+Application+Builder+%F0%9F%A4%96;Clean+Architecture+Advocate+%F0%9F%A7%A9" alt="Typing SVG" />
+</a>
+
+<br/>
 # Hi there👋 , I'm 🔰Abdullah Yar Khan🔰
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=I+build+the+eyes+machines+didn't+have+before.;AI%2FML+Engineer+%7C+Data+Engineer+%7C+Data+Scientist;Anomaly+detection+%C2%B7+Forecasting+%C2%B7+Agentic+AI;Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%C2%B7+Open+to+relocation" alt="Typing SVG" />
